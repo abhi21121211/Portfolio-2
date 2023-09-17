@@ -8,7 +8,7 @@ Greetings! I am thrilled to share my development journey with you through this p
 
 ## Skills
 
-- Web Development (HTML, CSS, JavaScript, React, etc.)
+- Web Development (HTML, CSS, JavaScript, React,Bootstrap 5 etc.)
 - Backend Development (Node.js, Express, Django, etc.)
 - Database Management (MySQL, MongoDB, PostgreSQL)
 - Version Control (Git, GitHub)
